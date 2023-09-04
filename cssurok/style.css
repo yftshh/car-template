@@ -911,7 +911,7 @@ img {
     grid-template-columns: 397.5px 397.5px;
 }
 
-@media (max-width: 1700px) {
+/* @media (max-width: 1700px) {
     .last_f {
         
     }
@@ -919,7 +919,7 @@ img {
 
 
 
-}
+} */
 
 @media (max-width: 1530px) {
     .vehicle2 {
